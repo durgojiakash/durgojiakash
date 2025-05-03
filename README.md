@@ -24,9 +24,6 @@
 
   <br><br>
 
-  <!-- Playwright Logo -->
-  <img src="https://github.com/microsoft/playwright/raw/main/docs/static/img/playwright-logo.svg" alt="Playwright Logo" width="100" />
-
   <!-- Tech Stack Icons -->
   <br><br>
   <img src="https://skillicons.dev/icons?i=selenium,postman,jenkins,github,git" alt="Tech Stack Icons" />
