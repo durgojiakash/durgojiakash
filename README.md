@@ -1,4 +1,6 @@
-- 🌱 2+ years of experience in SDET  
+- 🌱 A skilled SDET with 2+ years of experience and a passion for building robust, scalable, and automation-driven testing solutions for modern web applications.
+- Proficient in frontend and backend testing, version control, remote repository management, and CI integration.
+
 - 🧠 Expertise in:  
   1. Frontend Testing (UI Automation) – Playwright & knowledge on Selenium  
   2. Backend Testing – Postman (Manual), Playwright (Automation)
