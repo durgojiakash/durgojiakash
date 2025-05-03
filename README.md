@@ -7,7 +7,7 @@
   5. Remote Repositories – GitHub  
   6. CI Tool – Jenkins  
 
-📂 Check out my repositories for framework and scenario handling examples.
+📂 Check out my repositories for complete frameworks and practical scenario handling.
 
 <br>
 
@@ -25,7 +25,7 @@
   </a>
 
   <!-- Tech Stack Icons -->
-  <br>
+  <br><br>
   <img src="https://skillicons.dev/icons?i=selenium,postman,jenkins,github,git" alt="Tech Stack Icons" />
   <br>
   <img src="https://skillicons.dev/icons?i=js,ts,java" alt="Languages Icons" />
