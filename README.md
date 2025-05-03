@@ -6,7 +6,7 @@
 
 - ✅ Frontend Testing (UI Automation) – **Playwright**, with knowledge of **Selenium**
 - ✅ Backend Testing – **Postman** (Manual), **Playwright** (Automation)
-- ✅ Manual Testing – Functional, Regression, and Integration Testing
+- ✅ Manual Testing – Functional, Regression, Integration Testing and End-to-End Testing
 - ✅ Version Control – **Git**
 - ✅ Remote Repositories – **GitHub**
 - ✅ CI Tool – **Jenkins**
