@@ -1,6 +1,6 @@
 - 🌱 2+ years of experience in SDET  
 - 🧠 Expertise in:  
-  1. Frontend Testing (UI Automation) – Playwright & knowledge of Selenium  
+  1. Frontend Testing (UI Automation) – Playwright & knowledge on Selenium  
   2. Backend Testing – Postman (Manual), Playwright (Automation)
   3. Manual Testing
   4. Version Control – Git  
@@ -25,10 +25,10 @@
   </a>
 
   <!-- Tech Stack Icons -->
-  <br><br>
+  <br>
   <img src="https://skillicons.dev/icons?i=selenium,postman,jenkins,github,git" alt="Tech Stack Icons" />
   <br>
-  <img src="https://skillicons.dev/icons?i=java,js,ts" alt="Languages Icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java" alt="Languages Icons" />
 
 </div>
 
