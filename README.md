@@ -1,15 +1,17 @@
-- 🌱 A skilled SDET with 2+ years of experience and a passion for building robust, scalable, and automation-driven testing solutions for modern web applications.
-- Proficient in Frontend and Backend Testing, Version Control, Remote Repository Management and CI Integration.
+🌱 **A skilled SDET with 2+ years of experience**, passionate about building robust, scalable, and automation-driven testing solutions for modern web applications.
 
-- 🧠 Expertise in:  
-  1. Frontend Testing (UI Automation) – Playwright & knowledge on Selenium  
-  2. Backend Testing – Postman (Manual), Playwright (Automation)
-  3. Manual Testing
-  4. Version Control – Git  
-  5. Remote Repositories – GitHub  
-  6. CI Tool – Jenkins  
+🚀 Proficient in **Frontend and Backend Testing**, **Version Control**, **Remote Repository Management**, and **CI Integration**.
 
-📂 Check out my repositories for complete frameworks and practical scenario handling.
+🧠 **Expertise includes:**
+
+- ✅ Frontend Testing (UI Automation) – **Playwright**, with knowledge of **Selenium**
+- ✅ Backend Testing – **Postman** (Manual), **Playwright** (Automation)
+- ✅ Manual Testing – Functional, Regression, and Integration Testing
+- ✅ Version Control – **Git**
+- ✅ Remote Repositories – **GitHub**
+- ✅ CI Tool – **Jenkins**
+
+📂 Check out my repositories for **complete frameworks** and **real-world scenario handling** examples.
 
 <br>
 
