@@ -9,6 +9,8 @@
 
 📂 Check out my repositories for framework and scenario handling examples.
 
+<br>
+
 <div align="center">
 
   <!-- Contact & Social Links -->
@@ -21,8 +23,6 @@
   <a href="https://www.instagram.com/durgoo_/" target="_blank" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
-
-  <br>
 
   <!-- Tech Stack Icons -->
   <br><br>
