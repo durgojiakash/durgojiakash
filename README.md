@@ -1,3 +1,6 @@
+- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
+- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+
 <div align="center">
 
   <!-- Contact & Social Links -->
@@ -7,12 +10,11 @@
   <a href="https://www.linkedin.com/in/akash-d-4bb43a191/" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://medium.com/@chijiokeokorji" target="_blank" title="Medium">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
+  <a href="https://www.instagram.com/yourusername/" target="_blank" title="Instagram">
+    <img src="[https://img.shields.io/badge/Instagram](https://www.instagram.com/durgoo_)-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
-  <a href="https://codepen.io/chijiokeokorji" target="_blank" title="CodePen">
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge" />
-  </a>
+
+  <img src="https://github.com/microsoft/playwright/raw/main/docs/static/img/playwright-logo.svg" alt="Playwright Logo" width="100" />
 
   <!-- Tech Stack Icons -->
   <br><br>
