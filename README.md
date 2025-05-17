@@ -1,6 +1,6 @@
 🌱 **A skilled SDET with 2+ years of experience**, passionate about building robust, scalable, and automation-driven testing solutions for modern web applications.
 
-🚀 Proficient in **Frontend and Backend Testing**, **Version Control**, **Remote Repository Management**, and **CI Integration**.
+🚀 Proficient in **GUI Testing and Backend Testing**, **Version Control**, **Remote Repository Management**, and **CI Integration**.
 
 🧠 **Expertise includes:**
 
